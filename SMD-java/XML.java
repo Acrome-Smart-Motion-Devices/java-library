@@ -1,0 +1,12 @@
+<dependencies>
+    <dependency>
+        <groupId>org.json</groupId>
+        <artifactId>json</artifactId>
+        <version>20210307</version>
+    </dependency>
+    <dependency>
+        <groupId>com.fazecast</groupId>
+        <artifactId>jSerialComm</artifactId>
+        <version>2.9.1</version>
+    </dependency>
+</dependencies>
